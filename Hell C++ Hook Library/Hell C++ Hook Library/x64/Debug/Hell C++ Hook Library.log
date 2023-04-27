@@ -3,4 +3,5 @@
   HTools.cpp
   HUtil.cpp
   Generating Code...
-  Hell C++ Hook Library.vcxproj -> C:\SoundCode\C++\HellCpp\Hell C++ Hook Library\x64\Debug\Hell C++ Hook Library.dll
+  LINK : C:\SoundCode\C++\HellCpp\HellCpp\Hell C++ Hook Library\x64\Debug\Hell C++ Hook Library.dll not found or not built by the last incremental link; performing full link
+  Hell C++ Hook Library.vcxproj -> C:\SoundCode\C++\HellCpp\HellCpp\Hell C++ Hook Library\x64\Debug\Hell C++ Hook Library.dll
